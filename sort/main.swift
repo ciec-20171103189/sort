@@ -28,4 +28,3 @@ for i in 0..<someInts.count
     print(someInts[i])
 }
 
-
